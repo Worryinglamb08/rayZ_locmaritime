@@ -5,9 +5,11 @@ This script is a maritime rental, more specifically of Jet Sky and Surfboard at 
 PS : The surfboard was not created by me !!!
 
 Installation
-Copy rayZ_locmaritime to your resources folder and add start rayZ_locmaritime to your server.cfg
+
+Copy [rayZ_locmaritime] to your resources folder and add start rayZ_location and surfboard to your server.cfg
 
 Dependencies
+
 - ESX
 
 Video :
